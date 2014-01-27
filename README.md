@@ -1,0 +1,1 @@
+Emberjs todo app take from the ember tutorial: http://emberjs.com/guides/getting-started/
